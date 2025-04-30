@@ -1,0 +1,1125 @@
+{
+  "Users": [
+    {
+      "UserId": 1,
+      "Name": "3",
+      "Email": "sharath",
+      "PasswordHash": "$2a$11$HKV93p/t/nfzaxs/HVG3oeMiUmqg0YfEVhR7IZqLOVTrLnX0Ecfki",
+      "RegistrationSource": "daf",
+      "Mobile": null,
+      "Location": null,
+      "Token": null
+    },
+    {
+      "UserId": 2,
+      "Name": "kumar",
+      "Email": "kumar@gmail.com",
+      "PasswordHash": "$2a$11$MiswHbKBRAeUi4PVuOrnQewng5lJer5FcQ5PvX24FbYGQFaXRFqES",
+      "RegistrationSource": "brokerage",
+      "Mobile": null,
+      "Location": null,
+      "Token": null
+    },
+    {
+      "UserId": 3,
+      "Name": "vinay",
+      "Email": "vinay@gmail.com",
+      "PasswordHash": "$2a$11$RYjnzGEr5wN99y8dT6WA5evFmImOAybe5R8ILxrJDoV3qJrBWMNbm",
+      "RegistrationSource": "brokerage",
+      "Mobile": null,
+      "Location": null,
+      "Token": null
+    },
+    {
+      "UserId": 4,
+      "Name": "cdt",
+      "Email": "cdt@gmail.com",
+      "PasswordHash": "$2a$11$EbWOm/jmdgU55ETW8wvD2uOsO1850DPOHHtgPlkjgAzFFKfdV/ygm",
+      "RegistrationSource": "daf",
+      "Mobile": null,
+      "Location": null,
+      "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI0IiwidW5pcXVlX25hbWUiOiJjZHQiLCJlbWFpbCI6ImNkdEBnbWFpbC5jb20iLCJuYmYiOjE3NDU5NTcwMjMsImV4cCI6MTc0NTk1NzA4MywiaWF0IjoxNzQ1OTU3MDIzfQ.vOV_-DAVYHd2Dgq8_eElRZP8Qbz4N4JL63NC-JYU58Y"
+    },
+    {
+      "UserId": 5,
+      "Name": "Vinay Kumar",
+      "Email": "gvinay@gmail.com",
+      "PasswordHash": "$2a$11$E50y.gn33lUR.UEReb5Jd.93Spjsp6ILdSfhDQeSmMYM2m7m10ssG",
+      "RegistrationSource": "DAF",
+      "Mobile": "09819923088",
+      "Location": "Bangalore",
+      "Token": null
+    },
+    {
+      "UserId": 6,
+      "Name": "G Vinay Kumar",
+      "Email": "123",
+      "PasswordHash": "$2a$11$UuXYtAA22sS5sWsLt2s0pu75IOaa1P7Jbxnp.A2Fh5UG/ORlqThku",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "Ballari",
+      "Token": null
+    },
+    {
+      "UserId": 7,
+      "Name": "Sony",
+      "Email": "sony@gmail.com",
+      "PasswordHash": "$2a$11$GZqJNVVgsldoApYQ92/dC.TND5AYagbafCh0GbXCNkzEZqJkGdtsi",
+      "RegistrationSource": "DAF",
+      "Mobile": "9876543021",
+      "Location": "Chennai",
+      "Token": null
+    },
+    {
+      "UserId": 8,
+      "Name": "Vinay Kumar",
+      "Email": "gvinay1607@gmail.com",
+      "PasswordHash": "$2a$11$3R722F/4.16nAbKXNgYgoe1JmgMDivV8TLSqnakUhTU5cYNpFHMcq",
+      "RegistrationSource": "DAF",
+      "Mobile": "09819923088",
+      "Location": "Bangalore",
+      "Token": null
+    },
+    {
+      "UserId": 9,
+      "Name": "Sharath Kumar",
+      "Email": "sharath@gmail.com",
+      "PasswordHash": "$2a$11$kGMoLrzjNFXaQxgbdAM6TuEo8VBIT6gNtj1OLujON9ozSyy7y1jXi",
+      "RegistrationSource": "DAF",
+      "Mobile": "9964478822",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 10,
+      "Name": "Chandana",
+      "Email": "chandana@gmail.com",
+      "PasswordHash": "$2a$11$e/cgsjjqNi3kkaXAjna/IONAbHitTx6QQhTyG4/4XUUvTL6JumTbO",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 11,
+      "Name": "Madhu Sneha",
+      "Email": "madhu@gmail.com",
+      "PasswordHash": "$2a$11$gCKxVRnqwSSYnROM7zx2M.obHl8WdF8nOPEQe7V2aXAJgLg3zBlsC",
+      "RegistrationSource": "DAF",
+      "Mobile": "9818823988",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 12,
+      "Name": "Jahanavi",
+      "Email": "jahanavi@gmail.com",
+      "PasswordHash": "$2a$11$QUFYs8aoyQSccUkYbmESy.VmSdEm6rT913WxUpu1Lwhcyuzc83L4K",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "bglr",
+      "Token": null
+    },
+    {
+      "UserId": 13,
+      "Name": "Shama S K",
+      "Email": "shama@gmail.com",
+      "PasswordHash": "$2a$11$B.070n2Dom8FtYdaWjX5Aeo/EVvTdu513VB8JCFQmQZvfSJ2CpK8C",
+      "RegistrationSource": "DAF",
+      "Mobile": "9988776655",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 14,
+      "Name": "Vinay Kumar",
+      "Email": "vinay1@gmail.com",
+      "PasswordHash": "$2a$11$.vxd3ylOGCNCPed/a.ygKe6x9VU2IGEBfOFM978EwrCHbEfCnocZe",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 15,
+      "Name": "Vinay Kumar",
+      "Email": "vinay12@gmail.com",
+      "PasswordHash": "$2a$11$wAl/GRLsYXSSgGbECSxXyuXXJNLoz/PYZPp62XZRoL7w.90sPtwi2",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 16,
+      "Name": "Murali",
+      "Email": "Murali@123",
+      "PasswordHash": "$2a$11$tfXKyQsJfOUNovNHmnniYep/37Kb08Dq3C7JiKp.lE6mS8GjQpdqy",
+      "RegistrationSource": "DAF",
+      "Mobile": "1234567890",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 17,
+      "Name": "Murali",
+      "Email": "Murali@123.com",
+      "PasswordHash": "$2a$11$Uju2YFpvP1Mi/yh32Ifu2elLE1f0viFF4iiv5ZKIpSzCjGxmVhbTC",
+      "RegistrationSource": "DAF",
+      "Mobile": "9876543221",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 18,
+      "Name": "Vinay",
+      "Email": "gvinaykumar611@gmail.com",
+      "PasswordHash": "$2a$11$HecACZqPz2b5dbyfKWYr2O8VtpA9oZQ/wYwt4xieapL3adZF2Be6a",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxOCIsInVuaXF1ZV9uYW1lIjoiVmluYXkiLCJlbWFpbCI6Imd2aW5heWt1bWFyNjExQGdtYWlsLmNvbSIsIm5iZiI6MTc0NTk1MTc0OCwiZXhwIjoxNzQ1OTUxODA4LCJpYXQiOjE3NDU5NTE3NDh9.hfPct5qVkQ84O4crJhzrNv_AhXrkKtyTam528OcOyD8"
+    },
+    {
+      "UserId": 19,
+      "Name": "Chandana",
+      "Email": "chandana123@gmail.com",
+      "PasswordHash": "$2a$11$jjzNzeiCmlbJtPBa17RjL.nlxDlQouzEd1nYrf8Lpb7lYvkVdXj1S",
+      "RegistrationSource": "brokerage",
+      "Mobile": "8877665544",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 20,
+      "Name": "Vinay",
+      "Email": "gvinay1@gmail.com",
+      "PasswordHash": "$2a$11$2umF/NPE88ow9mUVxHuDyuvy7o3blRwDqipOCO0HyrtWUhzWEMLy6",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BLY",
+      "Token": null
+    },
+    {
+      "UserId": 21,
+      "Name": "Vinay",
+      "Email": "cdt1@gmail.com",
+      "PasswordHash": "$2a$11$weW3GETmBMRn9cEAYRUwL.OywAoc4yaABadCpJR5zjZH11kjW7xe2",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 22,
+      "Name": "Vinay",
+      "Email": "gvinay2@gmail.com",
+      "PasswordHash": "$2a$11$PxR5jaecX5nw9w.u7oOOAeCX2qnCnHmXidJj/DFw.8BrAOypQ1wJi",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 23,
+      "Name": "asd",
+      "Email": "asdd@gmail.com",
+      "PasswordHash": "$2a$11$CPeSb.MyCD9ICLc0Es0eQ.efhba6HC1ZaeSjy68cAHLe8LfqBo2VW",
+      "RegistrationSource": "DAF",
+      "Mobile": "string",
+      "Location": "string",
+      "Token": null
+    },
+    {
+      "UserId": 24,
+      "Name": "asd",
+      "Email": "asddd@gmail.com",
+      "PasswordHash": "$2a$11$fuvXLuhWQRh477kYabuM3e65qD9cmbCJFq0jGpjWrk2TvKc3YUYjq",
+      "RegistrationSource": "DAF",
+      "Mobile": "string",
+      "Location": "string",
+      "Token": null
+    },
+    {
+      "UserId": 25,
+      "Name": "asd",
+      "Email": "vinay999mumbai@gmail.com",
+      "PasswordHash": "$2a$11$0VJoAE8VCDNAXUj8wawNf.QZTnmB7SfdKlhy5cMKe04EDXRhrgjnW",
+      "RegistrationSource": "DAF",
+      "Mobile": "string",
+      "Location": "string",
+      "Token": null
+    },
+    {
+      "UserId": 26,
+      "Name": "asd",
+      "Email": "viratkohli18vinay@gmail.com",
+      "PasswordHash": "$2a$11$JX8ZPt7yi5vM6R9VyYbe6OWTAUGZpDlLHZbxdy8FOQFGWR7y8oHdO",
+      "RegistrationSource": "DAF",
+      "Mobile": "string",
+      "Location": "string",
+      "Token": null
+    },
+    {
+      "UserId": 27,
+      "Name": "vinay",
+      "Email": "vinay888mumbai@gmail.com",
+      "PasswordHash": "$2a$11$EL7PWXxh3hh02rEZOWxayu0Qp7s9cBIw7yAL6viQWDKVAltPR.nPu",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 28,
+      "Name": "vinay",
+      "Email": "divyat51951@gmail.com",
+      "PasswordHash": "$2a$11$fR6vuKXukHqjSfkXxahuzuTbAIivNMMOzlY7x1wOyCnCuiWE/LC2G",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 29,
+      "Name": "vinay",
+      "Email": "divya1@gmail.com",
+      "PasswordHash": "$2a$11$6gTXs9YiYSdo0nLhr6Gb2O/RZMKfz3zAlsldEWEcKD/0UIrlGcf7.",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 30,
+      "Name": "vinay",
+      "Email": "divy1@gmail.com",
+      "PasswordHash": "$2a$11$zUWDza.UzecJqRfxwYLp4.2MBs3NU5i3phLASj1MyuCVItdQjtUoa",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 31,
+      "Name": "vinay",
+      "Email": "123@gmail.com",
+      "PasswordHash": "$2a$11$RSFnWVhiFP1bifXBtzaRyub8JN7I1/vpPVQcGPOLjVSFsfnTLGFkC",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 32,
+      "Name": "vinay",
+      "Email": "1223@gmail.com",
+      "PasswordHash": "$2a$11$qiBcdM.YQaio9bRu9VIbROOOnhwHmi3gHcSns4sz4Ya215xgJe6z.",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 33,
+      "Name": "vinay",
+      "Email": "223@gmail.com",
+      "PasswordHash": "$2a$11$YBV1gE/LCmIsxtqJEZ41U.inQdxVOtRlj0FGxnjruMbpckpdQGkJ2",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    },
+    {
+      "UserId": 34,
+      "Name": "asdasd",
+      "Email": "asdasd@gmail.com",
+      "PasswordHash": "$2a$11$XOleKiqiHZDuMqsUrEO9xeEfatfcwSZBlAvIGF4oKJ9CygeyVwt3q",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 35,
+      "Name": "asdasd",
+      "Email": "asdassdd@gmail.com",
+      "PasswordHash": "$2a$11$OcpmqvNhnlFLHHq5dLfq9.fJ47Ql5leFr13c3EH3zEvknhS3nkPXq",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 36,
+      "Name": "asdasd",
+      "Email": "asdassdadsd@gmail.com",
+      "PasswordHash": "$2a$11$iipFyAm7pcaw/0FI43zuZOQPciIOIG4n6tb7AwtuVrr0NsAmq1JJ.",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 37,
+      "Name": "asdasd",
+      "Email": "asdasdadsd@gmail.com",
+      "PasswordHash": "$2a$11$5XbbCZEqSq/R9kq5wHZpgOeUOVUGx/g0wW8K.fwFYlbMMBbRMOPFm",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 38,
+      "Name": "asdasd",
+      "Email": "asdasdasd@gmail.com",
+      "PasswordHash": "$2a$11$1xEgL8KhR9XqZTEA.KsuVOxUJUYhZubYNB20xow2YN61yia0DiniG",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 39,
+      "Name": "asdasd",
+      "Email": "asdad@gmail.com",
+      "PasswordHash": "$2a$11$C218RtaR8XQUdJfzSElt3eXQUIMS0qHV6L24Jgo8fEdKc/0n67MQm",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 40,
+      "Name": "asdasd",
+      "Email": "dad@gmail.com",
+      "PasswordHash": "$2a$11$vQC3.KpHDY2hRwsx6qcutuYO3RdRxlVSIHICrolQ85RFEdBnaHk4K",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 41,
+      "Name": "asdasd",
+      "Email": "da@gmail.com",
+      "PasswordHash": "$2a$11$.y/45A6/cYlsW3cETnw.wO7/EB./P7JYlipOr8zOh40/bwxf4WO.i",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 42,
+      "Name": "asdasd",
+      "Email": "daa@gmail.com",
+      "PasswordHash": "$2a$11$YL6AHUqm3O/MKdF4Ip8OH.GP4nxpN6nNRw8JhIKTk8Hx5cqjgyEia",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 43,
+      "Name": "asdasd",
+      "Email": "daaa@gmail.com",
+      "PasswordHash": "$2a$11$PEsgn3jO.rV0CpLm.Ew7sO0rH0Ntd/3BXUrVru.y1QnwCtAAVfL5S",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 44,
+      "Name": "asdasd",
+      "Email": "daaaa@gmail.com",
+      "PasswordHash": "$2a$11$7Mkl6pDdAPeUwKgwmdyoTuV3xwUJ1JunXx8lisxbRvHGsGQEcYPwK",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 45,
+      "Name": "asdasd",
+      "Email": "arunjaru03@gmail.com",
+      "PasswordHash": "$2a$11$ZjzkpskffhCWMCipWaNSz.t3az0l7YtLIHVUK3i/MT.Z.PrACPBOK",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 46,
+      "Name": "asdasd",
+      "Email": "arunjaru031@gmail.com",
+      "PasswordHash": "$2a$11$fV3CH.rNrwDw0M0LKPe7fuVjK/n/uLW1mSAqgLGNyulgfhpCe0KCe",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 47,
+      "Name": "asdasd",
+      "Email": "arunjarua031@gmail.com",
+      "PasswordHash": "$2a$11$JQ0vHOXs.QJ8bk2jPGzyF.T8IoXk1i/v14h01hjD/bNgj5oRtYqYW",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 48,
+      "Name": "asdasd",
+      "Email": "arunjaruaa031@gmail.com",
+      "PasswordHash": "$2a$11$hOV/Dcz6YKgOQ7lURZM/K.VAYo6OrQRe/mucJGE0LBtR6LkvCYBpu",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 49,
+      "Name": "asdasd",
+      "Email": "arunjaruaa0a31@gmail.com",
+      "PasswordHash": "$2a$11$rpWdDa.1nmOKLWUwEgN9Uu4Dng8gkAKMkjsZMWupOPHaEYLLti6FK",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 50,
+      "Name": "asdasd",
+      "Email": "chandanaparappadavil@gmail.com",
+      "PasswordHash": "$2a$11$E0d7QDOUknstcNdtCGDyo.Ks3Zh2pHvmvJh7mSxf2lnkHxS1PVPUm",
+      "RegistrationSource": "DAF",
+      "Mobile": "2134123443",
+      "Location": "dfasf",
+      "Token": null
+    },
+    {
+      "UserId": 51,
+      "Name": "Vinay",
+      "Email": "gvinaykumar1607@gmail.com",
+      "PasswordHash": "$2a$11$DMVfrAbD6klrmlJDu/IvYObHBbl3jxBFzSUpx2SPCW.Y4zS9aZf8S",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI1MSIsInVuaXF1ZV9uYW1lIjoiVmluYXkiLCJlbWFpbCI6Imd2aW5heWt1bWFyMTYwN0BnbWFpbC5jb20iLCJuYmYiOjE3NDU5ODgwODQsImV4cCI6MTc0NTk4ODE0NCwiaWF0IjoxNzQ1OTg4MDg0fQ.pDZFH0ubWB7fREGsgjkeX3rDLbS8DBxQvjw9xxMSNM4"
+    },
+    {
+      "UserId": 52,
+      "Name": "Vinay",
+      "Email": "abcd@gmail.com",
+      "PasswordHash": "$2a$11$Jt4.bRpj/H6JdHNSQqTncOrRuEi6FTHclqCbqeEc0BJhBYYZlbUxq",
+      "RegistrationSource": "brokerage",
+      "Mobile": "9819923088",
+      "Location": "BGLR",
+      "Token": null
+    }
+  ],
+  "DAFAccounts": [
+    {
+      "DAFAccountId": 1,
+      "UserId": 1,
+      "AccountNumber": "DAF1",
+      "DAFBalance": 500,
+      "TotalDonated": 1000
+    },
+    {
+      "DAFAccountId": 2,
+      "UserId": 3,
+      "AccountNumber": "DAF-001",
+      "DAFBalance": 11000,
+      "TotalDonated": 800
+    },
+    {
+      "DAFAccountId": 3,
+      "UserId": 4,
+      "AccountNumber": "DAF-001",
+      "DAFBalance": 3300,
+      "TotalDonated": 3500
+    },
+    {
+      "DAFAccountId": 4,
+      "UserId": 5,
+      "AccountNumber": "DAF-006",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 5,
+      "UserId": 6,
+      "AccountNumber": "DAF-007",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 6,
+      "UserId": 7,
+      "AccountNumber": "DAF-008",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 7,
+      "UserId": 8,
+      "AccountNumber": "DAF-009",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 8,
+      "UserId": 9,
+      "AccountNumber": "DAF-010",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 9,
+      "UserId": 10,
+      "AccountNumber": "DAF-011",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 10,
+      "UserId": 11,
+      "AccountNumber": "DAF-012",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 11,
+      "UserId": 12,
+      "AccountNumber": "DAF-013",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 12,
+      "UserId": 13,
+      "AccountNumber": "DAF-014",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 13,
+      "UserId": 14,
+      "AccountNumber": "DAF-015",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 14,
+      "UserId": 15,
+      "AccountNumber": "DAF-016",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 15,
+      "UserId": 19,
+      "AccountNumber": "DAF-017",
+      "DAFBalance": 80000,
+      "TotalDonated": 3000
+    },
+    {
+      "DAFAccountId": 16,
+      "UserId": 16,
+      "AccountNumber": "DAF-017",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 17,
+      "UserId": 17,
+      "AccountNumber": "DAF-018",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 18,
+      "UserId": 18,
+      "AccountNumber": "DAF-019",
+      "DAFBalance": 23000,
+      "TotalDonated": 37000
+    },
+    {
+      "DAFAccountId": 19,
+      "UserId": 20,
+      "AccountNumber": "DAF-020",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 20,
+      "UserId": 21,
+      "AccountNumber": "DAF-022",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 21,
+      "UserId": 22,
+      "AccountNumber": "DAF-023",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 22,
+      "UserId": 24,
+      "AccountNumber": "DAF-025",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 23,
+      "UserId": 25,
+      "AccountNumber": "DAF-026",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 24,
+      "UserId": 26,
+      "AccountNumber": "DAF-027",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 25,
+      "UserId": 44,
+      "AccountNumber": "DAF-045",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 26,
+      "UserId": 45,
+      "AccountNumber": "DAF-046",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 27,
+      "UserId": 46,
+      "AccountNumber": "DAF-047",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 28,
+      "UserId": 47,
+      "AccountNumber": "DAF-048",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 29,
+      "UserId": 48,
+      "AccountNumber": "DAF-049",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 30,
+      "UserId": 49,
+      "AccountNumber": "DAF-050",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 31,
+      "UserId": 50,
+      "AccountNumber": "DAF-051",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 32,
+      "UserId": 51,
+      "AccountNumber": "DAF-052",
+      "DAFBalance": 80000,
+      "TotalDonated": 20000
+    }
+  ],
+  "BrokerageAccounts": [
+    {
+      "BrokerageAccountId": 1,
+      "UserId": 2,
+      "AccountNumber": "BRK-001",
+      "AvailableBalance": 5000,
+      "LinkedDate": "2025-04-17T22:00:04.8858501+05:30"
+    },
+    {
+      "BrokerageAccountId": 2,
+      "UserId": 3,
+      "AccountNumber": "BRK-002",
+      "AvailableBalance": 0,
+      "LinkedDate": "2025-04-18T08:17:59.3579762+05:30"
+    },
+    {
+      "BrokerageAccountId": 3,
+      "UserId": 4,
+      "AccountNumber": "BRK-04",
+      "AvailableBalance": 5000,
+      "LinkedDate": "2025-04-24T15:07:35.6660531+05:30"
+    },
+    {
+      "BrokerageAccountId": 4,
+      "UserId": 19,
+      "AccountNumber": "BRK-006",
+      "AvailableBalance": 30000,
+      "LinkedDate": "2025-04-24T17:55:28.5614608+05:30"
+    },
+    {
+      "BrokerageAccountId": 5,
+      "UserId": 52,
+      "AccountNumber": "BRK-009",
+      "AvailableBalance": 100000,
+      "LinkedDate": "2025-04-29T16:42:54.9898646+05:30"
+    }
+  ],
+  "Transfers": [
+    {
+      "TransferId": 1,
+      "UserId": 3,
+      "BrokerageAccountId": 2,
+      "DAFAccountId": 19,
+      "Amount": 5000,
+      "Date": "2025-04-24T15:01:01.8288739+05:30",
+      "Status": "Success",
+      "ReferenceNote": "string"
+    },
+    {
+      "TransferId": 2,
+      "UserId": 3,
+      "BrokerageAccountId": 2,
+      "DAFAccountId": 16,
+      "Amount": 5000,
+      "Date": "2025-04-24T15:01:33.4087122+05:30",
+      "Status": "Success",
+      "ReferenceNote": "string"
+    },
+    {
+      "TransferId": 3,
+      "UserId": 4,
+      "BrokerageAccountId": 4,
+      "DAFAccountId": 13,
+      "Amount": 5000,
+      "Date": "2025-04-24T15:12:34.4434581+05:30",
+      "Status": "Success",
+      "ReferenceNote": "string"
+    },
+    {
+      "TransferId": 4,
+      "UserId": 19,
+      "BrokerageAccountId": 4,
+      "DAFAccountId": 3,
+      "Amount": 5000,
+      "Date": "2025-04-24T17:56:42.7472849+05:30",
+      "Status": "Success",
+      "ReferenceNote": "string"
+    },
+    {
+      "TransferId": 5,
+      "UserId": 19,
+      "BrokerageAccountId": 4,
+      "DAFAccountId": 3,
+      "Amount": 5000,
+      "Date": "2025-04-24T17:57:06.5025722+05:30",
+      "Status": "Success",
+      "ReferenceNote": "string"
+    },
+    {
+      "TransferId": 6,
+      "UserId": 19,
+      "BrokerageAccountId": 4,
+      "DAFAccountId": 51,
+      "Amount": 50000,
+      "Date": "2025-04-29T16:39:27.4706557+05:30",
+      "Status": "Success",
+      "ReferenceNote": "Transfer"
+    },
+    {
+      "TransferId": 7,
+      "UserId": 19,
+      "BrokerageAccountId": 4,
+      "DAFAccountId": 32,
+      "Amount": 5000,
+      "Date": "2025-04-29T16:40:01.9433633+05:30",
+      "Status": "Success",
+      "ReferenceNote": "Transfer"
+    },
+    {
+      "TransferId": 8,
+      "UserId": 19,
+      "BrokerageAccountId": 4,
+      "DAFAccountId": 32,
+      "Amount": 5000,
+      "Date": "2025-04-29T16:45:10.7167305+05:30",
+      "Status": "Success",
+      "ReferenceNote": "Transfer"
+    }
+  ],
+  "Charities": [
+    {
+      "CharityId": 1,
+      "Name": "Akshaya Patra Foundation",
+      "Category": "Education",
+      "Description": "Mid-day meals for children",
+      "Location": "India"
+    },
+    {
+      "CharityId": 2,
+      "Name": "Goonj",
+      "Category": "Disaster Relief",
+      "Description": "Disaster response and urban waste reuse",
+      "Location": "India"
+    },
+    {
+      "CharityId": 3,
+      "Name": "GiveIndia",
+      "Category": "Multiple",
+      "Description": "Online donation platform for various causes",
+      "Location": "India"
+    },
+    {
+      "CharityId": 4,
+      "Name": "CRY - Child Rights and You",
+      "Category": "Children",
+      "Description": "Uplifting underprivileged children",
+      "Location": "India"
+    },
+    {
+      "CharityId": 5,
+      "Name": "Smile Foundation",
+      "Category": "Health \u0026 Education",
+      "Description": "Education and healthcare for poor children",
+      "Location": "India"
+    },
+    {
+      "CharityId": 6,
+      "Name": "Teach For India",
+      "Category": "Education",
+      "Description": "Empowering education in underserved schools",
+      "Location": "India"
+    },
+    {
+      "CharityId": 7,
+      "Name": "HelpAge India",
+      "Category": "Elderly Care",
+      "Description": "Support for senior citizens",
+      "Location": "India"
+    },
+    {
+      "CharityId": 8,
+      "Name": "Wildlife SOS",
+      "Category": "Environment",
+      "Description": "Rescue and rehabilitate wildlife",
+      "Location": "India"
+    },
+    {
+      "CharityId": 9,
+      "Name": "Make A Difference",
+      "Category": "Children",
+      "Description": "Support for children in shelters",
+      "Location": "India"
+    },
+    {
+      "CharityId": 10,
+      "Name": "Nanhi Kali",
+      "Category": "Girls\u2019 Education",
+      "Description": "Educating underprivileged girls",
+      "Location": "India"
+    },
+    {
+      "CharityId": 11,
+      "Name": "CARE India",
+      "Category": "Health \u0026 Disaster",
+      "Description": "Disaster relief and healthcare",
+      "Location": "India"
+    },
+    {
+      "CharityId": 12,
+      "Name": "Greenpeace India",
+      "Category": "Environment",
+      "Description": "Environmental activism and awareness",
+      "Location": "India"
+    }
+  ],
+  "Donations": [
+    {
+      "DonationId": 1,
+      "UserId": 1,
+      "CharityId": 1,
+      "Amount": 500,
+      "Date": "2025-04-17T21:15:06.061975+05:30"
+    },
+    {
+      "DonationId": 2,
+      "UserId": 4,
+      "CharityId": 3,
+      "Amount": 500,
+      "Date": "2025-04-18T09:49:34.2295795+05:30"
+    },
+    {
+      "DonationId": 3,
+      "UserId": 4,
+      "CharityId": 24,
+      "Amount": 300,
+      "Date": "2025-04-24T14:52:16.0362503+05:30"
+    },
+    {
+      "DonationId": 4,
+      "UserId": 18,
+      "CharityId": 12,
+      "Amount": 4000,
+      "Date": "2025-04-24T17:44:36.8648941+05:30"
+    },
+    {
+      "DonationId": 5,
+      "UserId": 18,
+      "CharityId": 1,
+      "Amount": 2000,
+      "Date": "2025-04-24T17:44:48.8371534+05:30"
+    },
+    {
+      "DonationId": 6,
+      "UserId": 4,
+      "CharityId": 0,
+      "Amount": 1000,
+      "Date": "2025-04-25T09:36:12.0509777+05:30"
+    },
+    {
+      "DonationId": 7,
+      "UserId": 4,
+      "CharityId": 1,
+      "Amount": 100,
+      "Date": "2025-04-25T09:38:35.7691581+05:30"
+    },
+    {
+      "DonationId": 8,
+      "UserId": 4,
+      "CharityId": 4,
+      "Amount": 200,
+      "Date": "2025-04-25T10:34:30.1429032+05:30"
+    },
+    {
+      "DonationId": 9,
+      "UserId": 4,
+      "CharityId": 7,
+      "Amount": 200,
+      "Date": "2025-04-25T11:56:57.5905958+05:30"
+    },
+    {
+      "DonationId": 10,
+      "UserId": 4,
+      "CharityId": 2,
+      "Amount": 200,
+      "Date": "2025-04-25T11:58:22.4083807+05:30"
+    },
+    {
+      "DonationId": 11,
+      "UserId": 4,
+      "CharityId": 5,
+      "Amount": 200,
+      "Date": "2025-04-28T22:44:34.9637275+05:30"
+    },
+    {
+      "DonationId": 12,
+      "UserId": 18,
+      "CharityId": 4,
+      "Amount": 10000,
+      "Date": "2025-04-29T11:16:18.3536488+05:30"
+    },
+    {
+      "DonationId": 13,
+      "UserId": 18,
+      "CharityId": 2,
+      "Amount": 2000,
+      "Date": "2025-04-29T11:47:51.472807+05:30"
+    },
+    {
+      "DonationId": 14,
+      "UserId": 18,
+      "CharityId": 7,
+      "Amount": 2000,
+      "Date": "2025-04-29T11:48:10.6587925+05:30"
+    },
+    {
+      "DonationId": 15,
+      "UserId": 18,
+      "CharityId": 9,
+      "Amount": 2000,
+      "Date": "2025-04-29T14:23:50.8911817+05:30"
+    },
+    {
+      "DonationId": 16,
+      "UserId": 18,
+      "CharityId": 10,
+      "Amount": 2000,
+      "Date": "2025-04-29T16:03:28.9923739+05:30"
+    },
+    {
+      "DonationId": 17,
+      "UserId": 18,
+      "CharityId": 8,
+      "Amount": 1000,
+      "Date": "2025-04-29T16:04:50.0757889+05:30"
+    },
+    {
+      "DonationId": 18,
+      "UserId": 18,
+      "CharityId": 4,
+      "Amount": 1000,
+      "Date": "2025-04-29T16:31:36.9097359+05:30"
+    },
+    {
+      "DonationId": 19,
+      "UserId": 18,
+      "CharityId": 1,
+      "Amount": 1000,
+      "Date": "2025-04-29T16:32:30.0024643+05:30"
+    },
+    {
+      "DonationId": 20,
+      "UserId": 51,
+      "CharityId": 3,
+      "Amount": 10000,
+      "Date": "2025-04-29T23:13:15.4403712+05:30"
+    },
+    {
+      "DonationId": 21,
+      "UserId": 51,
+      "CharityId": 1,
+      "Amount": 5000,
+      "Date": "2025-04-29T23:20:23.2131187+05:30"
+    },
+    {
+      "DonationId": 22,
+      "UserId": 51,
+      "CharityId": 4,
+      "Amount": 2000,
+      "Date": "2025-04-29T23:28:38.578324+05:30"
+    },
+    {
+      "DonationId": 23,
+      "UserId": 51,
+      "CharityId": 2,
+      "Amount": 2000,
+      "Date": "2025-04-29T23:55:10.9081941+05:30"
+    },
+    {
+      "DonationId": 24,
+      "UserId": 51,
+      "CharityId": 1,
+      "Amount": 1000,
+      "Date": "2025-04-30T10:12:26.698978+05:30"
+    }
+  ]
+}

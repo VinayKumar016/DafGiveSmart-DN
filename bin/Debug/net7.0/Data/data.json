@@ -1,0 +1,326 @@
+{
+  "Users": [
+    {
+      "UserId": 1,
+      "Name": "3",
+      "Email": "sharath",
+      "PasswordHash": "$2a$11$HKV93p/t/nfzaxs/HVG3oeMiUmqg0YfEVhR7IZqLOVTrLnX0Ecfki",
+      "RegistrationSource": "daf",
+      "Mobile": null,
+      "Location": null
+    },
+    {
+      "UserId": 2,
+      "Name": "kumar",
+      "Email": "kumar@gmail.com",
+      "PasswordHash": "$2a$11$MiswHbKBRAeUi4PVuOrnQewng5lJer5FcQ5PvX24FbYGQFaXRFqES",
+      "RegistrationSource": "brokerage",
+      "Mobile": null,
+      "Location": null
+    },
+    {
+      "UserId": 3,
+      "Name": "vinay",
+      "Email": "vinay@gmail.com",
+      "PasswordHash": "$2a$11$RYjnzGEr5wN99y8dT6WA5evFmImOAybe5R8ILxrJDoV3qJrBWMNbm",
+      "RegistrationSource": "brokerage",
+      "Mobile": null,
+      "Location": null
+    },
+    {
+      "UserId": 4,
+      "Name": "cdt",
+      "Email": "cdt@gmail.com",
+      "PasswordHash": "$2a$11$EbWOm/jmdgU55ETW8wvD2uOsO1850DPOHHtgPlkjgAzFFKfdV/ygm",
+      "RegistrationSource": "daf",
+      "Mobile": null,
+      "Location": null
+    },
+    {
+      "UserId": 5,
+      "Name": "Vinay Kumar",
+      "Email": "gvinaykumar611@gmail.com",
+      "PasswordHash": "$2a$11$E50y.gn33lUR.UEReb5Jd.93Spjsp6ILdSfhDQeSmMYM2m7m10ssG",
+      "RegistrationSource": "DAF",
+      "Mobile": "09819923088",
+      "Location": "Bangalore"
+    },
+    {
+      "UserId": 6,
+      "Name": "G Vinay Kumar",
+      "Email": "123",
+      "PasswordHash": "$2a$11$UuXYtAA22sS5sWsLt2s0pu75IOaa1P7Jbxnp.A2Fh5UG/ORlqThku",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "Ballari"
+    },
+    {
+      "UserId": 7,
+      "Name": "Sony",
+      "Email": "sony@gmail.com",
+      "PasswordHash": "$2a$11$GZqJNVVgsldoApYQ92/dC.TND5AYagbafCh0GbXCNkzEZqJkGdtsi",
+      "RegistrationSource": "DAF",
+      "Mobile": "9876543021",
+      "Location": "Chennai"
+    },
+    {
+      "UserId": 8,
+      "Name": "Vinay Kumar",
+      "Email": "gvinay1607@gmail.com",
+      "PasswordHash": "$2a$11$3R722F/4.16nAbKXNgYgoe1JmgMDivV8TLSqnakUhTU5cYNpFHMcq",
+      "RegistrationSource": "DAF",
+      "Mobile": "09819923088",
+      "Location": "Bangalore"
+    },
+    {
+      "UserId": 9,
+      "Name": "Sharath Kumar",
+      "Email": "sharath@gmail.com",
+      "PasswordHash": "$2a$11$kGMoLrzjNFXaQxgbdAM6TuEo8VBIT6gNtj1OLujON9ozSyy7y1jXi",
+      "RegistrationSource": "DAF",
+      "Mobile": "9964478822",
+      "Location": "BGLR"
+    },
+    {
+      "UserId": 10,
+      "Name": "Chandana",
+      "Email": "chandana@gmail.com",
+      "PasswordHash": "$2a$11$e/cgsjjqNi3kkaXAjna/IONAbHitTx6QQhTyG4/4XUUvTL6JumTbO",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "BGLR"
+    },
+    {
+      "UserId": 11,
+      "Name": "Madhu Sneha",
+      "Email": "madhu@gmail.com",
+      "PasswordHash": "$2a$11$gCKxVRnqwSSYnROM7zx2M.obHl8WdF8nOPEQe7V2aXAJgLg3zBlsC",
+      "RegistrationSource": "DAF",
+      "Mobile": "9818823988",
+      "Location": "BGLR"
+    },
+    {
+      "UserId": 12,
+      "Name": "Jahanavi",
+      "Email": "jahanavi@gmail.com",
+      "PasswordHash": "$2a$11$QUFYs8aoyQSccUkYbmESy.VmSdEm6rT913WxUpu1Lwhcyuzc83L4K",
+      "RegistrationSource": "DAF",
+      "Mobile": "9819923088",
+      "Location": "bglr"
+    },
+    {
+      "UserId": 13,
+      "Name": "Shama S K",
+      "Email": "shama@gmail.com",
+      "PasswordHash": "$2a$11$B.070n2Dom8FtYdaWjX5Aeo/EVvTdu513VB8JCFQmQZvfSJ2CpK8C",
+      "RegistrationSource": "DAF",
+      "Mobile": "9988776655",
+      "Location": "BGLR"
+    }
+  ],
+  "DAFAccounts": [
+    {
+      "DAFAccountId": 1,
+      "UserId": 1,
+      "AccountNumber": "DAF1",
+      "DAFBalance": 500,
+      "TotalDonated": 1000
+    },
+    {
+      "DAFAccountId": 2,
+      "UserId": 3,
+      "AccountNumber": "DAF-001",
+      "DAFBalance": 1000,
+      "TotalDonated": 800
+    },
+    {
+      "DAFAccountId": 3,
+      "UserId": 4,
+      "AccountNumber": "DAF-001",
+      "DAFBalance": 500,
+      "TotalDonated": 1300
+    },
+    {
+      "DAFAccountId": 4,
+      "UserId": 5,
+      "AccountNumber": "DAF-006",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 5,
+      "UserId": 6,
+      "AccountNumber": "DAF-007",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 6,
+      "UserId": 7,
+      "AccountNumber": "DAF-008",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 7,
+      "UserId": 8,
+      "AccountNumber": "DAF-009",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 8,
+      "UserId": 9,
+      "AccountNumber": "DAF-010",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 9,
+      "UserId": 10,
+      "AccountNumber": "DAF-011",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 10,
+      "UserId": 11,
+      "AccountNumber": "DAF-012",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 11,
+      "UserId": 12,
+      "AccountNumber": "DAF-013",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    },
+    {
+      "DAFAccountId": 12,
+      "UserId": 13,
+      "AccountNumber": "DAF-014",
+      "DAFBalance": 0,
+      "TotalDonated": 0
+    }
+  ],
+  "BrokerageAccounts": [
+    {
+      "BrokerageAccountId": 1,
+      "UserId": 2,
+      "AccountNumber": "BRK-001",
+      "AvailableBalance": 5000,
+      "LinkedDate": "2025-04-17T22:00:04.8858501+05:30"
+    },
+    {
+      "BrokerageAccountId": 2,
+      "UserId": 3,
+      "AccountNumber": "BRK-002",
+      "AvailableBalance": 10000,
+      "LinkedDate": "2025-04-18T08:17:59.3579762+05:30"
+    }
+  ],
+  "Transfers": [],
+  "Charities": [
+    {
+      "CharityId": 1,
+      "Name": "Akshaya Patra Foundation",
+      "Category": "Education",
+      "Description": "Mid-day meals for children",
+      "Location": "India"
+    },
+    {
+      "CharityId": 2,
+      "Name": "Goonj",
+      "Category": "Disaster Relief",
+      "Description": "Disaster response and urban waste reuse",
+      "Location": "India"
+    },
+    {
+      "CharityId": 3,
+      "Name": "GiveIndia",
+      "Category": "Multiple",
+      "Description": "Online donation platform for various causes",
+      "Location": "India"
+    },
+    {
+      "CharityId": 4,
+      "Name": "CRY - Child Rights and You",
+      "Category": "Children",
+      "Description": "Uplifting underprivileged children",
+      "Location": "India"
+    },
+    {
+      "CharityId": 5,
+      "Name": "Smile Foundation",
+      "Category": "Health \u0026 Education",
+      "Description": "Education and healthcare for poor children",
+      "Location": "India"
+    },
+    {
+      "CharityId": 6,
+      "Name": "Teach For India",
+      "Category": "Education",
+      "Description": "Empowering education in underserved schools",
+      "Location": "India"
+    },
+    {
+      "CharityId": 7,
+      "Name": "HelpAge India",
+      "Category": "Elderly Care",
+      "Description": "Support for senior citizens",
+      "Location": "India"
+    },
+    {
+      "CharityId": 8,
+      "Name": "Wildlife SOS",
+      "Category": "Environment",
+      "Description": "Rescue and rehabilitate wildlife",
+      "Location": "India"
+    },
+    {
+      "CharityId": 9,
+      "Name": "Make A Difference",
+      "Category": "Children",
+      "Description": "Support for children in shelters",
+      "Location": "India"
+    },
+    {
+      "CharityId": 10,
+      "Name": "Nanhi Kali",
+      "Category": "Girls\u2019 Education",
+      "Description": "Educating underprivileged girls",
+      "Location": "India"
+    },
+    {
+      "CharityId": 11,
+      "Name": "CARE India",
+      "Category": "Health \u0026 Disaster",
+      "Description": "Disaster relief and healthcare",
+      "Location": "India"
+    },
+    {
+      "CharityId": 12,
+      "Name": "Greenpeace India",
+      "Category": "Environment",
+      "Description": "Environmental activism and awareness",
+      "Location": "India"
+    }
+  ],
+  "Donations": [
+    {
+      "DonationId": 1,
+      "UserId": 1,
+      "CharityId": 1,
+      "Amount": 500,
+      "Date": "2025-04-17T21:15:06.061975+05:30"
+    },
+    {
+      "DonationId": 2,
+      "UserId": 4,
+      "CharityId": 3,
+      "Amount": 500,
+      "Date": "2025-04-18T09:49:34.2295795+05:30"
+    }
+  ]
+}
